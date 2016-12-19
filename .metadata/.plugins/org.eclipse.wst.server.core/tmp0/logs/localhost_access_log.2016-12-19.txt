@@ -1,0 +1,10 @@
+127.0.0.1 - - [19/Dec/2016:13:37:35 -0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [19/Dec/2016:13:37:36 -0700] "GET /Screver/ HTTP/1.1" 200 2576
+0:0:0:0:0:0:0:1 - - [19/Dec/2016:13:37:36 -0700] "GET /Screver/assets/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 125577
+0:0:0:0:0:0:0:1 - - [19/Dec/2016:13:37:36 -0700] "GET /Screver/assets/css/Navigation-Clean1.css HTTP/1.1" 200 4536
+0:0:0:0:0:0:0:1 - - [19/Dec/2016:13:37:36 -0700] "GET /Screver/assets/css/Navigation-with-Search1.css HTTP/1.1" 200 5689
+0:0:0:0:0:0:0:1 - - [19/Dec/2016:13:37:36 -0700] "GET /Screver/assets/css/styles.css HTTP/1.1" 200 338
+0:0:0:0:0:0:0:1 - - [19/Dec/2016:13:37:36 -0700] "GET /Screver/jQuery/jquery-3.1.1.min.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Dec/2016:13:37:36 -0700] "GET /Screver/assets/js/jquery.min.js HTTP/1.1" 200 97162
+0:0:0:0:0:0:0:1 - - [19/Dec/2016:13:37:36 -0700] "GET /Screver/screver.js HTTP/1.1" 200 15975
+0:0:0:0:0:0:0:1 - - [19/Dec/2016:13:37:36 -0700] "GET /Screver/assets/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 37045

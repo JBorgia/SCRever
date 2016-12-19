@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Dec 19 13:42:23 MST 2016
+org.eclipse.jst.jee.server\:/binary\:/Users/MacBookPro15/.m2/repository/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE.jar=WEB-INF/lib/spring-web-4.3.2.RELEASE.jar
+org.eclipse.jst.j2ee.server\:ScreverJPA=WEB-INF/lib/ScreverJPA.jar
